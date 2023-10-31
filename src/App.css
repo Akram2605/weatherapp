@@ -1,7 +1,11 @@
 .App {
   text-align: center;
+  
+  background: url("C:\Users\Lenovo\weatherapp\src\components\Assets\bg.jpeg");
+  background-color: #cccccc;
+  background-position: center;
+  background-size: cover;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -22,6 +26,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 .App-link {
